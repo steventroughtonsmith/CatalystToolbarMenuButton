@@ -1,4 +1,4 @@
-#CatalystToolbarMenuButton
+# CatalystToolbarMenuButton
 
 This is a simple Mac Catalyst example showcasing how to build a dropdown menu toolbar button using AppKit.
 

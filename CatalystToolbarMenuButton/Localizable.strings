@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CatalystToolbarMenuButton
+
+  Created by Steven Troughton-Smith on 09/04/2022.
+  
+*/
+
+"TAKE_PHOTO" = "Take Photo";
+"CHOOSE_FROM_LIBRARY" = "Choose from Library…";
+"CHOOSE_FROM_FILE" = "Choose File…";
